@@ -1,4 +1,4 @@
-# Skor-Hack
+هذه# Skor-Hack
 
 This tool is for guessing the password of social media accounts 
 
@@ -48,6 +48,6 @@ git clone https://github.com/Orphan510/Skor-Hack
 
 cd Skor-Hack
 
-chmod +x skor-hack py
+chmod +x skor-hack.py
 
 python skor-hack.py
